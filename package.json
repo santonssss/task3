@@ -1,0 +1,21 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "main": "diceGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.1",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
